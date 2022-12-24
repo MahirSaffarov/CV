@@ -1,0 +1,36 @@
+.address{
+    display: inline-block;
+    margin-left: 150px;
+    position: relative;
+    top: -18px;
+}
+.heading{
+    display: inline-block;
+    padding-top: 34px;
+    margin-left: 46px;
+}
+h1{
+    display: inline-block;
+    font-size: 60px;
+    margin: 0;
+}
+.heading span{
+    line-height: 35px;
+    margin: 0;   
+}
+.col1{
+    margin-top: 30px;
+    margin-left: 46px;
+    display: inline-block;
+}
+.col2{
+    display: inline-block;
+    margin-left: 86px;
+    position: relative;
+    top: -70px;
+}
+
+h6{
+    color: rgb(65,139,207);
+}
+
